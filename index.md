@@ -32,10 +32,13 @@ Here's some words about the book _One Hundred Years..._.
 #### The Latest News from [the BBC](https://www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
-[a fun place]: https://www.zombo.com
 
 Well, do I have [the website for you][another fun place]!
+
+[a fun place]: https://www.zombo.com
 [another fun place]: https://www.stumbleupon.com
+
+Linkit:"See something fun? ja the website for you!" korjattu! 2.10.24 klo 19.15
 
 ### Images
 
@@ -112,4 +115,3 @@ If you _do_ make a mess, use a towel to clean it up!
 2. Pour a gallon of milk into the bowl.  
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
- 
